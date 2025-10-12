@@ -1,0 +1,5 @@
+{
+  "name": "GeoPhoto Finder",
+  "description": "Upload a photo to discover the location where it was taken. Using the power of Gemini, this app analyzes your image and pinpoints the coordinates on a map.",
+  "requestFramePermissions": []
+}
